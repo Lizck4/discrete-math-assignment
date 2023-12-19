@@ -1,20 +1,20 @@
-# discrete-math-assignment
+# Discrete Math Assignment
 
 ## INITIALISATIONS
 
-Download pygame by running this command:
+Download 'pygame' package by running this command in the terminal:
 
-```ruby
 On Windows:
+```ruby
 
 pip install pygame
 
 ```
 
+On macOS:
 ```ruby
-On macOS
 
-pip3 install pygame (macOS)
+pip3 install pygame
 
 ```
 
