@@ -1,6 +1,6 @@
 # discrete-math-assignment
 
-INITIALISATIONS
+## INITIALISATIONS
 
 Download pygame by running this command:
 
