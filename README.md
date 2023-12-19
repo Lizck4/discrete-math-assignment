@@ -18,7 +18,7 @@ pip3 install pygame (macOS)
 
 ```
 
-if the command is not working, run this instead:
+If the command is not working, run this instead:
 
 ```ruby
 sudo pip3 install pygame (to install the packages as Admin)
