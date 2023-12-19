@@ -1,6 +1,6 @@
 # Discrete Math Assignment
 
-## INITIALISATIONS
+## INITIALISATION for 'du_an_2' and 'du_an_3'
 
 Download 'pygame' package by running this command in the terminal
 
